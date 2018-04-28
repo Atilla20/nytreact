@@ -1,0 +1,19 @@
+{
+  "name": "nytreact",
+  "version": "1.0.0",
+  "description": "Utilizing React to display articles based on user searches.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atilla20/nytreact.git"
+  },
+  "author": "Anna Tillack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atilla20/nytreact/issues"
+  },
+  "homepage": "https://github.com/Atilla20/nytreact#readme"
+}
